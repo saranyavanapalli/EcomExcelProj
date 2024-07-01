@@ -47,7 +47,8 @@ The Excel dashboard includes the following key performance indicators (KPIs) and
 ## Dashboard Snapshots
 Here is a snapshot of the dashboard:
 
-![Ecommerce Sales Analysis Dashboard](images/dashboard_overview.png)
+![Ecommerce Sales Analysis Dashboard](![Screenshot 2024-07-01 182444](https://github.com/saranyavanapalli/EcomExcelProj/assets/126087040/085038ed-c30b-487e-90bd-0f6fd6d88faf)
+)
 *Ecommerce Sales Analysis Dashboard*
 
 ## Files
